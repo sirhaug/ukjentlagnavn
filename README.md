@@ -36,4 +36,4 @@ Opplading av batteriene kan oppgraderes ved å introdusere solcellepaneler. Diss
 
 **Analysere bruksmønstre, og effektivisere lading**
 
-Alle norske hjem skal ha blitt utstyrt med nye AMS strømmålere, men selv om denne er en "smart strømmåler" så holder den likevel kun oversikten over totalforbruket; _hva_ hver bolig bruker strømmen på er hittil kun estimering.
+Ved å samle opp data om strømforbuket til de ulike boligkompleksene og boligene kan Stor-Oslo Eiendom implementere en mer intelligent lading av byggets batterier. 
