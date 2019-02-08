@@ -26,14 +26,11 @@ Strømleverandør kan tilby Stor-Oslo Eiendom gunstige strømpriser for å avse 
 * Når forbruket til en bolig overskrider en maksgrense avlastes strømnettet ved å heller trekke strøm fra batteriene.
 * Når forbruket i boligen er lavt, for eksempel på natten eller under arbeidstid, lades batteriene opp igjen.
 
+Opplading av batteriene kan oppgraderes ved å introdusere solcellepaneler. Disse vil da være særlig effektive under arbeidstid, når solen er oppe og ingen er hjemme.  
 Dette fører ikke til et lavere forbruk, men til en gjevnere belastning av det offentlige strømnettet.
 
 
-**Senke forbruk**
-
-Opplading av batteriene kan oppgraderes ved å introdusere solcellepaneler. Disse vil da være særlig effektive under arbeidstid, når solen er oppe og ingen er hjemme.
+**Smartstyring av elektronikk og hvitevarer**
 
 
-**Analysere bruksmønstre, og effektivisere lading**
-
-Ved å samle opp data om strømforbuket til de ulike boligkompleksene og boligene kan Stor-Oslo Eiendom implementere en mer intelligent lading av byggets batterier. 
+**Behovsutløste strømkutt**
