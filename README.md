@@ -20,8 +20,7 @@ Strømleverandør kan tilby Stor-Oslo Eiendom gunstige strømpriser for å avse 
 * Når forbruket til en bolig overskrider en maksgrense avlastes strømnettet ved å heller trekke strøm fra batteriene.
 * Når forbruket i boligen er lavt, for eksempel på natten eller under arbeidstid, lades batteriene opp igjen.
 
-Opplading av batteriene kan oppgraderes ved å introdusere solcellepaneler. Disse vil da være særlig effektive under arbeidstid, når solen er oppe og ingen er hjemme.  
-Dette fører ikke til et lavere forbruk, men til en gjevnere belastning av det offentlige strømnettet.
+Opplading av batteriene blir gjort enda mer effektivt ved å introdusere solcellepaneler. Disse vil da være særlig effektive under arbeidstid, når solen er oppe og ingen er hjemme.
 
 
 **Smartstyring av elektronikk og hvitevarer**
