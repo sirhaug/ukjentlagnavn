@@ -41,11 +41,3 @@ En slik løsning vil da være en "frivillig tvangstrøye". Beboere melder seg fr
 * komfyr / varmtvannsbereder ikke kan skrus på
   * evt ha begrenset bruk
 * sikringsskap har "lavere toleranse", og kutter kurser raskere
-
-
-## Eksisterende løsninger
-* Tibber
-* Tesla Powerwall
-* IFTTT
-
-... flere ting kommer her.
