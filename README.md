@@ -13,7 +13,7 @@ Stor-Oslo Eiendom ønsker å ta hensyn dette problemet når nye bygg skal reises
 Strømleverandør kan tilby Stor-Oslo Eiendom gunstige strømpriser for å avse deler av el-kapasiteten i høyt belastede perioder.
 
 
-## Vårt konsept
+## BIOBO - Vårt konsept
 **Senke belastning**
 
 * Installere batterier i boligkomplekset, enten med fellesbatterier (i kjelleren) eller hvor hver bolig har sitt eget batteri.
