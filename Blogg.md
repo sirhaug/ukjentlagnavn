@@ -5,6 +5,8 @@
 ## Ukjent Lagnavn skal redde verden!
 _Eller i det minste nybygg i Oslo._
 
+![Biobo][Grafikk/Biobo_logo.png]
+
 Mennesker er rutinedyr, og dette går hardt ut over strømnettet. Etter at alle kommer hjem fra jobb, skole, barnehage og skitur skyter strømforbruket i været; Senere på kvelden, når alle har lagt seg, synker forbruket rett til bunns. Det er denne forbruksvekslingen fra samtlige beboere rundt om i landet som skaper stor belastning på strømnettet.
 
 Vi løser dette ved hjelp av vårt nye konsept: **Biobo**, en flerdelt løsning som ikke bare sparer strøm, men også strømnett og lommebok.
